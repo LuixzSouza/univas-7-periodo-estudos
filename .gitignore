@@ -1,0 +1,9 @@
+# Sobe apenas os resumos (pastas ESTUDOS) — materiais originais dos professores ficam locais
+/*
+!/.gitignore
+!/README.md
+!/ESTUDOS/
+!/*/
+/*/*
+!/*/ESTUDOS/
+!/ESTUDOS/*
