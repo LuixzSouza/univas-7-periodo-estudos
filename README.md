@@ -1,4 +1,4 @@
-# Univas_studyes_7Periodo
+# 📚 UNIVÁS — Estudos do 7º período
 
 Material de estudo resumido do 7º período de Sistemas de Informação (UNIVÁS).
 
